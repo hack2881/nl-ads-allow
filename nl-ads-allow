@@ -6,3 +6,6 @@
 
 # Regex Allow List for YouTube
 ^.*(youtube\.com|youtu\.be|youtubei\.googleapis\.com|s\.youtube\.com|i\.ytimg\.com|googlevideo\.com).*
+
+# Regex Block List for Instagram Ads
+^.*(instagram\.com|www\.instagram\.com|ads\.instagram\.com|fb\.me|facebook\.com|facebook\.net|fbcdn\.net|fbstatic\.com|fbsbx\.com|fbsbx\.net|google-analytics\.com|analytics\.google\.com|scontent\.xx\.fbcdn\.net).*
