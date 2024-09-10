@@ -18,3 +18,19 @@
 @@||www.instagram.com^
 @@||t.co^
 @@||www.t.co^
+
+# Amazon White List
+@@||amazon.com^
+@@||www.amazon.com^
+@@||aax-eu.amazon-adsystem.com^
+@@||aax.amazon-adsystem.com^
+@@||images-na.ssl-images-amazon.com^
+@@||tag.amazon.com^
+@@||pixel.amazon.com^
+@@||data.amazon.com^
+@@||analytics.amazon.com^
+@@||static.amazon-adsystem.com^
+@@||aws.amazon.com^
+@@||m.media-amazon.com^
+@@||amazonaws.com^
+@@||www.amazonaws.com^
