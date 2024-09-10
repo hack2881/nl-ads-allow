@@ -1,5 +1,5 @@
 # Regex Allow List for Facebook
-^.*(graph\.facebook\.com|api\.fbcdn\.net|connect\.facebook\.net).*
+^.*(facebook\.com|www\.facebook\.com|m\.facebook\.com|fb\.me|fbcdn\.net|fbstatic\.com).*
 ^.*(facebook\.com\/video\/|fbcdn\.net\/|fb\.me\/).*
 
 # Regex Allow List for Amazon
