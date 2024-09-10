@@ -1,11 +1,14 @@
 # Regex Allow List for Facebook
-^.*(facebook\.com|fb\.com|fbsbx\.com|fbsbx\.net|fbcdn\.net|fbstatic\.com|fb\.me|fb\.gg|fbs\.com|fb\.com\/.*|facebook\.net).*
+^.*(graph\.facebook\.com|api\.fbcdn\.net|connect\.facebook\.net).*
+^.*(facebook\.com\/video\/|fbcdn\.net\/|fb\.me\/).*
 
 # Regex Allow List for Amazon
 ^.*(amazon\.com|aws\.amazon\.com|aax\.amazon-adsystem\.com|amazonaws\.com|images-na\.ssl-images-amazon\.com|tag\.amazon\.com|pixel\.amazon\.com|data\.amazon\.com|static\.amazon-adsystem\.com|m\.media-amazon\.com|www\.amazon\.com).*
 
 # Regex Allow List for YouTube
-^.*(youtube\.com|youtu\.be|youtubei\.googleapis\.com|s\.youtube\.com|i\.ytimg\.com|googlevideo\.com).*
+^.*(youtube\.com|www\.youtube\.com|m\.youtube\.com|youtube\.googleapis\.com|ytimg\.com).*
+^.*(youtube\.com\/watch\?v=|youtu\.be\/).*
+^.*(youtube\.com\/live|www\.youtube\.com\/live).*
 
 # Regex Block List for Instagram Ads
 ^.*(instagram\.com|www\.instagram\.com|ads\.instagram\.com|fb\.me|facebook\.com|facebook\.net|fbcdn\.net|fbstatic\.com|fbsbx\.com|fbsbx\.net|google-analytics\.com|analytics\.google\.com|scontent\.xx\.fbcdn\.net).*
