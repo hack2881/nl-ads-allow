@@ -1,2 +1,26 @@
 # Regex Allow List for Facebook
 ^.*(facebook\.com|fb\.com|fbsbx\.com|fbsbx\.net|fbcdn\.net|fbstatic\.com|fb\.me|fb\.gg|fbs\.com|fb\.com\/.*|facebook\.net).*
+
+# Allow List for Facebook
+0.0.0.0 !facebook.com
+0.0.0.0 !www.facebook.com
+0.0.0.0 !fb.com
+0.0.0.0 !www.fb.com
+0.0.0.0 !fbcdn.net
+0.0.0.0 !fbstatic.com
+0.0.0.0 !fbsbx.com
+0.0.0.0 !fbsbx.net
+0.0.0.0 !facebook.net
+0.0.0.0 !scontent.xx.fbcdn.net
+0.0.0.0 !scontent.fybz1-1.fna.fbcdn.net
+0.0.0.0 !scontent.fylz1-1.fna.fbcdn.net
+0.0.0.0 !fb.me
+0.0.0.0 !facebook.com
+0.0.0.0 !m.facebook.com
+0.0.0.0 !mobile.facebook.com
+0.0.0.0 !instagram.com
+0.0.0.0 !www.instagram.com
+0.0.0.0 !t.co
+0.0.0.0 !www.t.co
+0.0.0.0 !pinterest.com
+0.0.0.0 !www.pinterest.com
