@@ -34,3 +34,6 @@
 @@||m.media-amazon.com^
 @@||amazonaws.com^
 @@||www.amazonaws.com^
+
+# Regex Allow List for YouTube
+^.*(youtube\.com|youtu\.be|youtubei\.googleapis\.com|s\.youtube\.com|i\.ytimg\.com|googlevideo\.com).*
