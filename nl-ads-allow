@@ -1,6 +1,11 @@
 # Regex Allow List for Facebook
-^.*(facebook\.com|www\.facebook\.com|m\.facebook\.com|fb\.me|fbcdn\.net|fbstatic\.com).*
-^.*(facebook\.com\/video\/|fbcdn\.net\/|fb\.me\/).*
+@@^.*facebook\.com.*
+@@^.*www\.facebook\.com.*
+@@^.*m\.facebook\.com.*
+@@^.*fb\.me.*
+@@^.*fbcdn\.net.*
+@@^.*fbstatic\.com.*
+@@^.*facebook\.com\/video\/|fbcdn\.net\/|fb\.me\/.*
 
 # Regex Allow List for Amazon
 ^.*(amazon\.com|aws\.amazon\.com|aax\.amazon-adsystem\.com|amazonaws\.com|images-na\.ssl-images-amazon\.com|tag\.amazon\.com|pixel\.amazon\.com|data\.amazon\.com|static\.amazon-adsystem\.com|m\.media-amazon\.com|www\.amazon\.com).*
