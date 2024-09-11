@@ -10,6 +10,7 @@
 @@||fbcdn.net^
 @@||fb.me^
 @@||lm.facebook.com^
+@@||l.facebook.com^
 
 # Regex Allow List for Amazon
 ^.*(amazon\.com|aws\.amazon\.com|aax\.amazon-adsystem\.com|amazonaws\.com|images-na\.ssl-images-amazon\.com|tag\.amazon\.com|pixel\.amazon\.com|data\.amazon\.com|static\.amazon-adsystem\.com|m\.media-amazon\.com|www\.amazon\.com).*
