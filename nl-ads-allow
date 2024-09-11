@@ -14,4 +14,4 @@
 ^.*(instagram\.com|www\.instagram\.com|ads\.instagram\.com|fb\.me|facebook\.com|facebook\.net|fbcdn\.net|fbstatic\.com|fbsbx\.com|fbsbx\.net|google-analytics\.com|analytics\.google\.com|scontent\.xx\.fbcdn\.net).*
 
 # Regex allow List for doubleclick
-^.*(doubleclick\.net|googlesyndication\.com|g\.doubleclick\.net|pubads\.g\.doubleclick\.net|ad\.doubleclick\.net|partnerad\.doubleclick\.net).*
+@@^.*\.doubleclick\.net.*$
