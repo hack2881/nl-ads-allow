@@ -1,5 +1,6 @@
 # Allow List for Facebook
 @@||facebook.com^
+@@||ads.facebook.com^
 @@||www.facebook.com^
 @@||m.facebook\.com^
 @@||fb.me^
