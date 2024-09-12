@@ -39,3 +39,7 @@
 @@^.*doubleclick.net.*
 @@^.*g.doubleclick.net.*
 @@^.*pubads.g.doubleclick.net.*
+
+# regex allow list for temu.com
+@@/temu.com/special-allowed-url/
+@@/temu.com/another-allowed-url/
