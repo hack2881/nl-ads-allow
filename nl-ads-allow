@@ -20,6 +20,7 @@
 # Regex allow List for Instagram.com
 @@/www.instagram.com/specific-path-to-allow/
 @@/www.instagram.com/embed/.*/
+@@/youtube.be/special-allowed-url/
 @@/www.instagram.com/api/v1/specific-endpoint/
 @@^.*instagram.com.*
 @@^.*www.instagram.com.*
