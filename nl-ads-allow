@@ -7,6 +7,9 @@
 @@/www.amazon.com/another-allowed-url/
 
 # Regex Allow List for YouTube
+@@/youtube.be/specific-path-to-allow/
+@@/youtube.be/embed/.*/
+@@/youtube.be/api/v1/specific-endpoint/
 @@/youtube.com/special-allowed-url/
 @@/www.youtube.com/another-allowed-url/
 @@/youtube.com/watch\?v=allowed-video-id/
@@ -20,7 +23,6 @@
 # Regex allow List for Instagram.com
 @@/www.instagram.com/specific-path-to-allow/
 @@/www.instagram.com/embed/.*/
-@@/youtube.be/special-allowed-url/
 @@/www.instagram.com/api/v1/specific-endpoint/
 @@^.*instagram.com.*
 @@^.*www.instagram.com.*
