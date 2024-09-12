@@ -7,9 +7,9 @@
 @@/www.amazon.com/another-allowed-url/
 
 # Regex Allow List for YouTube
-@@/youtube.be/specific-path-to-allow/
-@@/youtube.be/embed/.*/
-@@/youtube.be/api/v1/specific-endpoint/
+@@/youtu.be/specific-path-to-allow/
+@@/youtu.be/embed/.*/
+@@/youtu.be/api/v1/specific-endpoint/
 @@/youtube.com/special-allowed-url/
 @@/www.youtube.com/another-allowed-url/
 @@/youtube.com/watch\?v=allowed-video-id/
