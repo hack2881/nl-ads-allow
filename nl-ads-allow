@@ -24,6 +24,9 @@
 @@/www.instagram.com/specific-path-to-allow/
 @@/www.instagram.com/embed/.*/
 @@/www.instagram.com/api/v1/specific-endpoint/
+@@/youtu.be/embed/.*/
+@@/youtu.be/api/v1/specific-endpoint/
+@@/youtu.be/specific-path-to-allow/
 @@^.*instagram.com.*
 @@^.*www.instagram.com.*
 @@^.*ads.instagram.com.*
