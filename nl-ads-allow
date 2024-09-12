@@ -17,7 +17,10 @@
 @@/www.youtube.com/iframe_api/
 @@/www.youtube.com/embed/.*/
 
-# Regex allow List for Instagram Ads
+# Regex allow List for Instagram.com
+@@/www.instagram.com/specific-path-to-allow/
+@@/www.instagram.com/embed/.*/
+@@/www.instagram.com/api/v1/specific-endpoint/
 @@^.*instagram.com.*
 @@^.*www.instagram.com.*
 @@^.*ads.instagram.com.*
@@ -32,7 +35,7 @@
 @@^.*analytics.google.com.*
 @@^.*scontent.xx.fbcdn.net.*
 
-# Regex allow List for doubleclick
+# Regex allow List for doubleclick.net
 @@^.*doubleclick.net.*
 @@^.*g.doubleclick.net.*
 @@^.*pubads.g.doubleclick.net.*
