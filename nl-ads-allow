@@ -34,6 +34,11 @@
 @@^.*g.doubleclick.net.*
 @@^.*pubads.g.doubleclick.net.*
 
-# regex allow list for temu.com
+# Regex allow list for temu.com
 @@/temu.com/special-allowed-url/
 @@/temu.com/another-allowed-url/
+
+# Regex allow list for shein.com
+@@/shein.com/special-allowed-url/
+@@/www.shein.com/another-allowed-url/
+@@/shein.com/api/allowed-endpoint/
