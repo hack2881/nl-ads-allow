@@ -13,6 +13,9 @@
 ^.*(youtube\.com|www\.youtube\.com|m\.youtube\.com|youtube\.googleapis\.com|ytimg\.com).*
 ^.*(youtube\.com\/watch\?v=|youtu\.be\/).*
 ^.*(youtube\.com\/live|www\.youtube\.com\/live).*
+@@/www.youtube.com/path-to-allow/
+@@/www.youtube.com/iframe_api/
+@@/www.youtube.com/embed/.*/
 
 # Regex allow List for Instagram Ads
 @@^.*instagram.com.*
