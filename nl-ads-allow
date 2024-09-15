@@ -54,3 +54,6 @@
 @@/shein.com/special-allowed-url/
 @@/www.shein.com/another-allowed-url/
 @@/shein.com/api/allowed-endpoint/
+
+# Regex allow list for ads.google.com
+@@/ads.google.com/
