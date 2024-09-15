@@ -57,3 +57,4 @@
 
 # Regex allow list for ads.google.com
 @@/ads.google.com/
+@@/ads1.google.com/
