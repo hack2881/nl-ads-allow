@@ -19,6 +19,8 @@
 @@/www.youtube.com/path-to-allow/
 @@/www.youtube.com/iframe_api/
 @@/www.youtube.com/embed/.*/
+@@||r1---sn-[a-z0-9]+\.googlevideo\.com^
+@@||rr1---sn-[a-z0-9]+\.googlevideo\.com^
 
 # Regex allow List for Instagram.com
 @@/www.instagram.com/specific-path-to-allow/
