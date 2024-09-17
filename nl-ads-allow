@@ -5,6 +5,8 @@
 @@/www.facebook.com/another-allowed-url/
 
 # Regex Allow List for Amazon
+@@||amazon.com^
+@@||*.amazon.com^
 @@/amazon.com/special-allowed-url/
 @@/www.amazon.com/another-allowed-url/
 
@@ -58,7 +60,6 @@
 @@/shein.com/special-allowed-url/
 @@/www.shein.com/another-allowed-url/
 @@/shein.com/api/allowed-endpoint/
-
 # Regex allow list for ads.google.com
 @@/ads.google.com/
 @@/ads1.google.com/
