@@ -65,5 +65,5 @@
 @@/ads1.google.com/
 
 # Regex allow list for mail.google.com 
-@@||mail.google.com^
+@@^.*mail.google.com^
 @@||*.mail.google.com^
