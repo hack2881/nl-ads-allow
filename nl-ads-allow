@@ -63,3 +63,7 @@
 # Regex allow list for ads.google.com
 @@/ads.google.com/
 @@/ads1.google.com/
+
+# Regex allow list for mail.google.com 
+@@||mail.google.com^
+@@||*.mail.google.com^
