@@ -66,3 +66,4 @@
 
 # Regex allow list for google.com 
 @@/^https?:\/\/(.*\.)?google\.com/
+@@||google.com^
