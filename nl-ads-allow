@@ -73,3 +73,4 @@
 @@/^https?://([a-zA-Z0-9_-]+.)?nl\.pinterest\.com/
 @@||pinterest.com^
 @@||nl.pinterest.com^
+@@/^https?://([a-zA-Z0-9_-]+\.)?pinterest\.com/
