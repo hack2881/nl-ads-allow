@@ -65,8 +65,11 @@
 @@/^https?:\/\/(.*\.)?google\.com/
 @@||google.com^
 
-# @@|cdn.polyfill.io^$important - potential malware vector : https://github.com/hl2guide/AdGuard-Home-Whitelist/issues/11
-#@@|polyfill.io^$important - potential malware vector : https://github.com/hl2guide/AdGuard-Home-Whitelist/issues/11
+
+# Regex allow list for yahoo.com
+@@/^https?:\/\/(.*\.)?yahoo\.com/
+@@||yahoo.com^
+
 @@|*-*-*-*.brokendnssec.net^$important
 @@|*-*-stor*.uploaded.net^$important
 @@|*-*.totallyacdn.com^$important
