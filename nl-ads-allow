@@ -1,7 +1,5 @@
 # Regex Allow List for Facebook
 @@||facebook.com^
-@@/facebook.com/special-allowed-url/
-@@/www.facebook.com/another-allowed-url/
 
 # Regex Allow List for Amazon
 @@||amazon.com^
