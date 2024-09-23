@@ -68,7 +68,7 @@
 
 # Regex allow list for yahoo.com
 @@/^https?:\/\/(.*\.)?yahoo\.com/
-@@||yahoo.com^
+@@//yahoo.com/
 
 @@|*-*-*-*.brokendnssec.net^$important
 @@|*-*-stor*.uploaded.net^$important
