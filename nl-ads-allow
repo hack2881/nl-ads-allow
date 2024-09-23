@@ -74,3 +74,6 @@
 @@/pinterest.com/
 @@/nl.pinterest.com/
 @@/^https?://([a-zA-Z0-9_-]+\.)?pinterest\.com/
+
+# Regex allow list for tiktok.com
+@@/^https?://([a-zA-Z0-9_-]+\.)?tiktok\.com/
