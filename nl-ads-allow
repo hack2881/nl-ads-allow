@@ -65,12 +65,11 @@
 @@/^https?:\/\/(.*\.)?google\.com/
 @@||google.com^
 
-
 # Regex allow list for yahoo.com
 @@/^https?:\/\/(.*\.)?yahoo\.com/
 @@/yahoo.com/
 
 # Regex allow list for pinterest.com
 @@/^https?://([a-zA-Z0-9_-]+.)?nl\.pinterest\.com/
-@@/pinterest.com/
-@@/nl.pinterest.com/
+@@|pinterest.com^
+@@|nl.pinterest.com^
