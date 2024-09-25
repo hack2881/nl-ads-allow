@@ -77,3 +77,6 @@
 
 # Regex allow list for tiktok.com
 @@/^https?://([a-zA-Z0-9_-]+\.)?tiktok\.com/
+
+# Regex allow list for googleadservices.com
+@@/googleadservices.com/
